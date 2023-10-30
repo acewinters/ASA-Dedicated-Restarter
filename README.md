@@ -1,3 +1,5 @@
+# Ark Ascended Dedi Restarter
+
 🦖 ArkAscendedMonitor: A Python utility tailored for monitoring and managing ARK: Survival Evolved dedicated servers.
 
 Monitors the ARK server executable for uptime and stability.
